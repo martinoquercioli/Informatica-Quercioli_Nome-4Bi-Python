@@ -1,0 +1,10 @@
+# COMANDI
+py --version
+code --version
+git --version
+# VERSIONI
+Python 3.14.2
+1.137.0
+645f29cc3176500b4b5762ba887cf2a7f0ffdf2c
+x64
+git version 2.55.0
