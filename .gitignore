@@ -30,3 +30,6 @@ Desktop.ini
 # File derivati dalle conversioni Pandoc
 M1_markdown/*.html
 M1_markdown/*.pdf
+
+
+.info
