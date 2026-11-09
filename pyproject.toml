@@ -3,6 +3,9 @@ name = "informatica-quercioli-nome-4bi-python"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
+authors = [
+    { name = "Martino Quercioli", email = "martino.quercioli@marconirovereto.it" }
+]
 requires-python = ">=3.12"
 dependencies = [
     "ipykernel>=7.4.0",
