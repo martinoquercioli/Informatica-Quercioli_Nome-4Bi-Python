@@ -11,6 +11,7 @@ public static int cerca(int[] valori, int cercato) {
     }
     return -1;
 }
+
 ```
 
 ```mermaid
